@@ -1,0 +1,4 @@
+load csv dataset.csv
+head dataset 5
+sum dataset 5
+exit
